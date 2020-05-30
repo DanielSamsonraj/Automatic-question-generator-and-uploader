@@ -4,7 +4,7 @@ import requests
 import time
 
 bot = Bot()
-bot.login(username="Coding__hacks", password="IamADeveloper123")
+bot.login(username="xxxxx", password="xxxxx")
 
 while True:
     cur_id = 1
