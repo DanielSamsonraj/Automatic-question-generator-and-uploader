@@ -1,0 +1,17 @@
+2020-05-30 15:16:40,100 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2020-05-30 15:16:40,101 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\samson\AppData\Local\Programs\Python\Python38-32\lib\site-packages\instabot\bot\bot.py
+2020-05-30 15:16:40,101 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2020-05-30 15:16:40,101 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2020-05-30 15:16:40,101 - instabot version: 0.117.0 (api_login) - INFO - Recovery from E:\Automated Post In intsgram/config/Coding__hacks_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=cf1c0ff0-e623-4775-9f8b-ea3d10801c70
+- uuid=668dfe16-ab5a-4f5f-9402-e3656e4f077b
+- client_session_id=226a8d5f-d3fd-473a-b793-fdcf0be76de9
+- device_id=android-efe34e45829d0927
+2020-05-30 15:16:40,104 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2020-05-30 15:16:41,165 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2020-05-30 15:16:41,785 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2020-05-30 15:16:41,788 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'Coding__hacks'!
+2020-05-30 15:16:41,789 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: E:\Automated Post In intsgram/config/Coding__hacks.checkpoint
+2020-05-30 15:16:43,788 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: E:\Automated Post In intsgram/config/Coding__hacks.checkpoint
+2020-05-30 15:16:43,790 - instabot version: 0.117.0 (bot) - INFO - Total requests: 33
